@@ -1,3 +1,3 @@
-den = int(input("Введите количество дней: ")) #234 
+den = int(input("Введите количество дней: "))
 nedelya = den/7
 print(f'Недель: {nedelya}')

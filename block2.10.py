@@ -1,5 +1,6 @@
 a = int(input("Введите число: "))
 b = int(input("ВВедите число: "))
 c = int(input("Введите число: "))
-d = int(input("ВВедите число: "))
-print(f"{a} {b} {c} {d}")
+print(a)
+print(b)
+print(c)

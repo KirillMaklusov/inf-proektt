@@ -1,0 +1,23 @@
+from math import sin, radians, sqrt, cos
+x = int(input("Введите число x: "))
+a = int(input("Введите число a: "))
+b = int(input("Введите число b: "))
+c = int(input("Введите число c: "))
+d = int(input("Введите число d: "))
+
+A = (f'А)')
+B = (f'Б)')
+V = (f'В)')
+G = (f'Г)')
+D = (f'Д)')
+E = (f'Е)')
+ZH = (f'Ж)')
+Z = (f'З)')
+I = (f'И)')
+K = (f'К)')
+L = (f'Л)')
+M = (f'М)')
+N = (f'Н)')
+O = (f'О)')
+
+print(f'{A}, {B}, {V}, {G}, {D}, {E}, {ZH}, {Z}, {I}, {K}, {L}, {M}, {N}, {O}')

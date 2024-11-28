@@ -17,5 +17,5 @@ i = (f'и) sin a * cosB + sin a * sinB = \
              cos(radians(a))) * (sin(radians(B)))}')
 k = (f'к) a * koren 2b = {round(3 * sqrt(2 * b), 2)}')
 l = (f'л) 3sin 2a cos 3b = {3 * (sin(radians(a))) * (cos(radians(3 * B)))}')
-m = (f'м)')
+m = (f'м) -5 korenx + koren y = {-5 * sqrt(x + sqrt(y))}')
 print(f'{aa} {b} {v} {g} {d} {e} {zh} {z} {i} {k} {l} {m}')
